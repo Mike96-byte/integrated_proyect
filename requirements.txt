@@ -2,5 +2,4 @@ pandas
 streamlit
 matplotlib
 plotly_express
-streamlit
 datetime
